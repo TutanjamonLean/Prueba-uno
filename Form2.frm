@@ -17,6 +17,14 @@ Begin VB.Form Form2
       Top             =   3360
       Width           =   3975
    End
+   Begin VB.Label Label1 
+      Caption         =   "Label1"
+      Height          =   1575
+      Left            =   9600
+      TabIndex        =   1
+      Top             =   3720
+      Width           =   3135
+   End
 End
 Attribute VB_Name = "Form2"
 Attribute VB_GlobalNameSpace = False
